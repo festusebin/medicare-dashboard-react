@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/festusebin/medicare-dashboard-react/static/css/main.26e255f6.chunk.css",
+    "main.js": "/festusebin/medicare-dashboard-react/static/js/main.3b11d467.chunk.js",
+    "main.js.map": "/festusebin/medicare-dashboard-react/static/js/main.3b11d467.chunk.js.map",
+    "runtime-main.js": "/festusebin/medicare-dashboard-react/static/js/runtime-main.09ab07a8.js",
+    "runtime-main.js.map": "/festusebin/medicare-dashboard-react/static/js/runtime-main.09ab07a8.js.map",
+    "static/js/2.0e74b340.chunk.js": "/festusebin/medicare-dashboard-react/static/js/2.0e74b340.chunk.js",
+    "static/js/2.0e74b340.chunk.js.map": "/festusebin/medicare-dashboard-react/static/js/2.0e74b340.chunk.js.map",
+    "index.html": "/festusebin/medicare-dashboard-react/index.html",
+    "precache-manifest.0fcb8d1de4c19bd3e65efb8f81596973.js": "/festusebin/medicare-dashboard-react/precache-manifest.0fcb8d1de4c19bd3e65efb8f81596973.js",
+    "service-worker.js": "/festusebin/medicare-dashboard-react/service-worker.js",
+    "static/css/main.26e255f6.chunk.css.map": "/festusebin/medicare-dashboard-react/static/css/main.26e255f6.chunk.css.map",
+    "static/js/2.0e74b340.chunk.js.LICENSE.txt": "/festusebin/medicare-dashboard-react/static/js/2.0e74b340.chunk.js.LICENSE.txt",
+    "static/media/univelcity-logo-green.svg": "/festusebin/medicare-dashboard-react/static/media/univelcity-logo-green.59a017e0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09ab07a8.js",
+    "static/js/2.0e74b340.chunk.js",
+    "static/css/main.26e255f6.chunk.css",
+    "static/js/main.3b11d467.chunk.js"
+  ]
+}
